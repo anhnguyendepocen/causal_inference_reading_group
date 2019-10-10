@@ -68,6 +68,8 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 [Why Experimenters Might Not Always Want to Randomize, and What They Could Do Instead (Kasy)](https://maxkasy.github.io/home/files/papers/experimentaldesign.pdf)
 
+[Conjoint Survey Experiments](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/f/49/files/2019/09/handbook-draft-07-09202019-1.pdf)
+
 ## Inference
 
 ## Visualization
