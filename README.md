@@ -40,6 +40,8 @@ Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_
 
 [Online Appendix C discussing event-by-event analysis (which appendix may differ by which version of paper you find) of *The Effect of Minimum Wages on Low-Wage Jobs* (Cengiz, Dube, Lindner, and Zipperer)](https://www.nber.org/papers/w25434)
 
+[Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_pretrends_20190730.pdf)
+
 ## Instrumental Variables
 
 [Consistency without Inference:
@@ -47,5 +49,33 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## Regression Discontinuity
 
-## DAGs (Directed Acyclic Graphs)
+## DAGs (Directed Acyclical Graphs)
+
+[Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
+
+## Synthetic controls
+
+[Matrix Completion Methods for Causal Panel Data Models](https://arxiv.org/abs/1710.10251)
+
+## Bayesian statistics
+
+[Bayesian Causal Inference in Political Science (Mike DeCrescenzo
+)](https://github.com/mikedecr/causal-bayes)
+
+## Experimental design
+
+[Adaptive treatment assignment in experiments for policy choice (Kasy and Sautmann)](https://maxkasy.github.io/home/files/papers/adaptiveexperimentspolicy.pdf)
+
+[Why Experimenters Might Not Always Want to Randomize, and What They Could Do Instead (Kasy)](https://maxkasy.github.io/home/files/papers/experimentaldesign.pdf)
+
+## Inference
+
+## Visualization
+
+[Visualize as You Randomize: Design-Based Statistical Graphs for Randomized Experiments](https://alexandercoppock.com/papers/Coppock_VAYR.pdf)
+
+
+
+
+
 
