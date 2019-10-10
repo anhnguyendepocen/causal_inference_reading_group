@@ -80,8 +80,7 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 [Visualize as You Randomize: Design-Based Statistical Graphs for Randomized Experiments](https://alexandercoppock.com/papers/Coppock_VAYR.pdf)
 
+## External Validity
 
-
-
-
+Samii
 
