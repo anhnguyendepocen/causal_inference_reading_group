@@ -21,6 +21,8 @@ I am totally open to this becoming more of a "methods" workshop that encompasses
 
 About the last point, the goal is NOT that people should be coding up fancy estimators on their own. "Code" here is more like "how can I implement this in Stata/R/Python/Gretl" without too much pain. How hard is it to actually implement what the paper is suggesting on an actual dataset beyond the ones used in the paper? In an ideal world, the discussant would have attempted this (either on simulated or real dataset) and can say something meaningful about the practicalities of implementation. 
 
+This will restrict the set of papers that we can cover (e.g. we will miss out on papers introducing cool new methods but without a package or replicable code). I'm not 100% convinced that this is the right way to go but I do think it is a useful way to ground ourselves initially. 
+
 ### Choosing topics
 
 TBD
