@@ -4,6 +4,8 @@
 
 There is a lot going on in the causal inference literature! The goal of the reading group is to help each other keep up with the literature and best practices. It will be practitioner-oriented. Ideally, each session will end with people learning something that they can realistically apply to a project.
 
+I am totally open to this becoming more of a "methods" workshop that encompasses more topics as time goes on. For now, I hope grounding it in causal inference to start with will help us figure out the nitty-gritty (e.g. how to structure discussions). 
+
 ## Structure
 
 [I have no idea what I'm doing](https://i.imgur.com/m0w03xj.jpg) so happy for suggestions and to adapt as we go along. 
