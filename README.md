@@ -1,4 +1,4 @@
-# Causal Inference Reading Group
+# Causal Inference Reading Group (Spring 2020)
 
 ## Purpose
 
