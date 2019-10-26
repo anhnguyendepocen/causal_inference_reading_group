@@ -22,7 +22,7 @@ I am totally open to this becoming more of a "methods" workshop that encompasses
 
 About the "code" bulletpoint, the goal is NOT that people should be coding up fancy estimators on their own. Rather, the hope is that the rest of the reading group will have an answer to the question of "How can I implement this in Stata/R/Python/~~Gretl~~ and how painful will it be?". In an ideal world, the discussant would have attempted to implement the method and can talk about that process (e.g. unexpected problems that came up). At a minimum, they should discuss the steps needed to go from concept to actual usage in a project.  
 
-### Choosing topics
+## Spring Schedule
 
 TBD
 
