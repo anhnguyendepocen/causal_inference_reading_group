@@ -84,7 +84,21 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## External Validity
 
-Samii
-Meager
+[LOCAL INSTRUMENTS, GLOBAL EXTRAPOLATION:
+EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (James Bisbee, Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://www.nber.org/papers/w21663.pdf)
+
+[From Local to Global: External Validity in a Fertility Natural Experiment (Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://arxiv.org/abs/1906.08096)
+
+
+[Heterogeneous Treatment Effects in Impact Evaluation (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/2015/05/aer20151015.pdf)
+
+[How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
+
+[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments(Rachael Meager)](https://www.aeaweb.org/articles?id=10.1257/app.20170299); [Voxdev piece for more general audience](https://voxdev.org/topic/methods-measurement/understanding-average-effect-microcredit)
+
+[Aggregating Distributional Treatment Effects: ABayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
+
+
+
 
 ## Partial Identification
