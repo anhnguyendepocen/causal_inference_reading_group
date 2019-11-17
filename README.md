@@ -63,8 +63,7 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## Bayesian statistics
 
-[Bayesian Causal Inference in Political Science (Mike DeCrescenzo
-)](https://github.com/mikedecr/causal-bayes)
+[Bayesian Causal Inference in Political Science (Mike DeCrescenzo)](https://github.com/mikedecr/causal-bayes)
 
 ## Experimental design
 
