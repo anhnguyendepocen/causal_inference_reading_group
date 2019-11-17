@@ -18,12 +18,11 @@ I am totally open to this becoming more of a "methods" workshop that encompasses
     1. 1-2 examples to illustrate
     1. What are possible solutions?
     1. How to implement solutions **in code**?
+    1. Brainstorm ideas for how we can use this in our own research
 
-About the last point, the goal is NOT that people should be coding up fancy estimators on their own. "Code" here is more like "how can I implement this in Stata/R/Python/Gretl" without too much pain. How hard is it to actually implement what the paper is suggesting on an actual dataset beyond the ones used in the paper? In an ideal world, the discussant would have attempted this (either on simulated or real dataset) and can say something meaningful about the practicalities of implementation. 
+About the "code" bulletpoint, the goal is NOT that people should be coding up fancy estimators on their own. Rather, the hope is that the rest of the reading group will have an answer to the question of "How can I implement this in Stata/R/Python/~~Gretl~~ and how painful will it be?". In an ideal world, the discussant would have attempted to implement the method and can talk about that process (e.g. unexpected problems that came up). At a minimum, they should discuss the steps needed to go from concept to actual usage in a project.  
 
-This will restrict the set of papers that we can cover (e.g. we will miss out on papers introducing cool new methods but without a package or replicable code). I'm not 100% convinced that this is the right way to go but I do think it is a useful way to ground ourselves initially. 
-
-### Choosing topics
+## Spring Schedule
 
 TBD
 
@@ -83,6 +82,19 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## External Validity
 
-Samii
-Meager
+[LOCAL INSTRUMENTS, GLOBAL EXTRAPOLATION:
+EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (James Bisbee, Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://www.nber.org/papers/w21663.pdf)
 
+[From Local to Global: External Validity in a Fertility Natural Experiment (Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://arxiv.org/abs/1906.08096)
+
+
+[Heterogeneous Treatment Effects in Impact Evaluation (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/2015/05/aer20151015.pdf)
+
+[How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
+
+[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments(Rachael Meager)](https://www.aeaweb.org/articles?id=10.1257/app.20170299); [Voxdev article for more general audience](https://voxdev.org/topic/methods-measurement/understanding-average-effect-microcredit)
+
+[Aggregating Distributional Treatment Effects: ABayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
+
+
+## Partial Identification
