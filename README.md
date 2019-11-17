@@ -26,7 +26,17 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 [Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf)
 
+[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
 
+[Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf)
+
+[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847)
+
+[How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
+
+[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
+
+[Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5)
 
 ## Topics
 
@@ -36,8 +46,7 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 [SO YOU’VE BEEN TOLD TO DO MY DIFFERENCE-IN-DIFFERENCES THING: A GUIDE (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/10/09023516/so_youve_been_told_dd_10_9_2019.pdf)
 
-[Pre-test with Caution: Event-study Estimates After
-Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_pretrends_20190730.pdf)
+[Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_pretrends_20190730.pdf)
 
 [Difference-in-Differences with Multiple Time Periods and an Application on the Minimum Wage and Employment (Callaway and Sant'Anna)](https://arxiv.org/abs/1803.09015)
 
@@ -49,8 +58,7 @@ Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_
 
 ## Instrumental Variables
 
-[Consistency without Inference:
-Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
+[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
 
 ## Regression Discontinuity
 
@@ -76,7 +84,11 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 [Bayesian Nonparametric Modeling for Causal Inference (Jennifer Hill on Bayesian Additive Regression Trees)](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
 
+[City Limits to Partisan Polarization in the American Public](https://williammarble.co/docs/CityLimits-July2019.pdf)
+
 ## Experimental design
+
+[Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf)
 
 [Adaptive treatment assignment in experiments for policy choice (Kasy and Sautmann)](https://maxkasy.github.io/home/files/papers/adaptiveexperimentspolicy.pdf)
 
@@ -105,16 +117,15 @@ EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (
 
 [From Local to Global: External Validity in a Fertility Natural Experiment (Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://arxiv.org/abs/1906.08096)
 
-[A Nonparametric Bayesian Analysis of Heterogenous Treatment Effects in Digital Experimentation
-](https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2016.1172013#.XZ95ri2ZMUE)
+[A Nonparametric Bayesian Analysis of Heterogenous Treatment Effects in Digital Experimentation](https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2016.1172013#.XZ95ri2ZMUE)
 
 [Heterogeneous Treatment Effects in Impact Evaluation (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/2015/05/aer20151015.pdf)
 
 [How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
 
-[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments(Rachael Meager)](https://www.aeaweb.org/articles?id=10.1257/app.20170299); [Voxdev article for more general audience](https://voxdev.org/topic/methods-measurement/understanding-average-effect-microcredit)
+[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments(Rachael Meager)](http://eprints.lse.ac.uk/88190/1/app.20170299.pdf); [Voxdev article for more general audience](https://voxdev.org/topic/methods-measurement/understanding-average-effect-microcredit)
 
-[Aggregating Distributional Treatment Effects: ABayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
+[Aggregating Distributional Treatment Effects: A Bayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
 
 
 ## Partial Identification
