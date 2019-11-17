@@ -24,7 +24,9 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 ## Spring Schedule
 
-TBD
+[Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf)
+
+
 
 ## Topics
 
@@ -52,6 +54,12 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## Regression Discontinuity
 
+[A Practical Introduction to Regression Discontinuity Designs: Foundations](https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2019_CUP-Vol1.pdf)
+
+[A Practical Introduction to Regression Discontinuity Designs: Volume II](https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf)
+
+[The Regression Discontinuity Design](https://cattaneo.princeton.edu/papers/Cattaneo-Titiunik-VazquezBare_2019_Sage.pdf)
+
 ## DAGs (Directed Acyclical Graphs)
 
 [Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
@@ -60,9 +68,13 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 [Matrix Completion Methods for Causal Panel Data Models](https://arxiv.org/abs/1710.10251)
 
+[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847)
+
 ## Bayesian statistics
 
 [Bayesian Causal Inference in Political Science (Mike DeCrescenzo)](https://github.com/mikedecr/causal-bayes)
+
+[Bayesian Nonparametric Modeling for Causal Inference (Jennifer Hill on Bayesian Additive Regression Trees)](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
 
 ## Experimental design
 
@@ -72,7 +84,13 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 [Conjoint Survey Experiments](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/f/49/files/2019/09/handbook-draft-07-09202019-1.pdf)
 
+[Analyzing Two-Stage Experiments in the Presence of Interference](https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1323641)
+
+[Randomization tests of causal effects under interference](https://academic.oup.com/biomet/article-abstract/106/2/487/5306899)
+
 ## Inference
+
+[Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5)
 
 ## Visualization
 
@@ -80,13 +98,15 @@ Instrumental Variables in Practical Application](http://personal.lse.ac.uk/Young
 
 ## Matching and Propensity Score methods
 
-## External Validity
+## Heterogeneous Treatment Effects and External Validity
 
 [LOCAL INSTRUMENTS, GLOBAL EXTRAPOLATION:
 EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (James Bisbee, Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://www.nber.org/papers/w21663.pdf)
 
 [From Local to Global: External Validity in a Fertility Natural Experiment (Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://arxiv.org/abs/1906.08096)
 
+[A Nonparametric Bayesian Analysis of Heterogenous Treatment Effects in Digital Experimentation
+](https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2016.1172013#.XZ95ri2ZMUE)
 
 [Heterogeneous Treatment Effects in Impact Evaluation (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/2015/05/aer20151015.pdf)
 
