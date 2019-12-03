@@ -127,5 +127,8 @@ EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (
 
 [Aggregating Distributional Treatment Effects: A Bayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
 
+## Quantile Treatment Effects
+
+[Quantile Regression (Koenker and Hallock 2001)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.4.143)
 
 ## Partial Identification
