@@ -26,11 +26,11 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 [DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf) - Discussant: Wei Yang, 29 Jan 2020
 
-[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
+[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf) - Discussant: **TBD**
 
-[Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778)
+[Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778) - Discussant: **TBD**
 
-[How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
+[How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf) - Discussant: **TBD**
 
 ## Topics
 
