@@ -28,6 +28,7 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 [Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
 
+[Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778)
 
 [How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
 
