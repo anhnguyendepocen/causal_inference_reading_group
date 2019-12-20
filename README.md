@@ -32,6 +32,12 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 [How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf) - Discussant: **TBD**
 
+[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847) - Discussant: **TBD**
+
+[Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf) + [SO YOU’VE BEEN TOLD TO DO MY DIFFERENCE-IN-DIFFERENCES THING: A GUIDE (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/10/09023516/so_youve_been_told_dd_10_9_2019.pdf) - Discussant: **TBD** 
+
+[Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf) - Discussant: **TBD**
+
 ## Topics
 
 ## Difference-in-differences
