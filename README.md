@@ -24,19 +24,12 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 ## Spring Schedule
 
-[Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf)
+[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
 
 [Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
 
-[Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf)
-
-[Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847)
 
 [How Much Can We Generalize from Impact Evaluations? (Eva Vivalt)](http://evavivalt.com/wp-content/uploads/How-Much-Can-We-Generalize.pdf)
-
-[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
-
-[Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5)
 
 ## Topics
 
@@ -102,6 +95,8 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 ## Inference
 
+[Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778)
+
 [Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5)
 
 ## Visualization
@@ -127,8 +122,5 @@ EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (
 
 [Aggregating Distributional Treatment Effects: A Bayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
 
-## Quantile Treatment Effects
-
-[Quantile Regression (Koenker and Hallock 2001)](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.4.143)
 
 ## Partial Identification
