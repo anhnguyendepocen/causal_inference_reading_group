@@ -24,9 +24,11 @@ About the "code" bulletpoint, the goal is NOT that people should be coding up fa
 
 ## Spring Schedule
 
-[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf) - Discussant: Wei Yang, 29 Jan 2020
+Dates: Feb 12, Feb 26, Mar 25, April 22
 
-[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf) - Discussant: **TBD**
+[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf) - Discussant: Wei Yang, Feb 12 2020
+
+[Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf) - Discussant: **TBD** 
 
 [Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778) - Discussant: **TBD**
 
