@@ -22,11 +22,11 @@ I am totally open to this becoming more of a "methods" workshop that encompasses
 
 About the "code" bulletpoint, the goal is NOT that people should be coding up fancy estimators on their own. Rather, the hope is that the rest of the reading group will have an answer to the question of "How can I implement this in Stata/R/Python/~~Gretl~~ and how painful will it be?". In an ideal world, the discussant would have attempted to implement the method and can talk about that process (e.g. unexpected problems that came up). At a minimum, they should discuss the steps needed to go from concept to actual usage in a project.  
 
-## Spring Schedule
+## Spring Schedule and Readings
 
-Dates: Feb 12, Feb 26, Mar 25, April 22
+Dates: Feb 12, Feb 26, Mar 25, April 22, May 20, Jun 17, Jul 15
 
-[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf) - Discussant: Wei Yang, Feb 12 2020
+~~[DAG Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf) - Discussant: Wei Yang, Feb 12 2020~~
 
 [Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf) - Discussant: **TBD** 
 
@@ -36,13 +36,15 @@ Dates: Feb 12, Feb 26, Mar 25, April 22
 
 [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847) - Discussant: **TBD**
 
-[Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf) + [SO YOU’VE BEEN TOLD TO DO MY DIFFERENCE-IN-DIFFERENCES THING: A GUIDE (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/10/09023516/so_youve_been_told_dd_10_9_2019.pdf) - Discussant: **TBD** 
+~~[Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf) + [SO YOU’VE BEEN TOLD TO DO MY DIFFERENCE-IN-DIFFERENCES THING: A GUIDE (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/10/09023516/so_youve_been_told_dd_10_9_2019.pdf) - Discussant: Andrea Blasco, 26 Feb 2020~~
 
 [Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf) - Discussant: **TBD**
 
-## Topics
+~~[Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5) - Discussant: Michael Menietti, 25 Mar 2020~~
 
-## Difference-in-differences
+## Additional reading by topic
+
+### Difference-in-differences
 
 [Difference-in-differences with variation in treatment timing (Andrew Goodman-Bacon)](https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/2318/2019/07/29170757/ddtiming_7_29_2019.pdf)
 
@@ -58,11 +60,11 @@ Dates: Feb 12, Feb 26, Mar 25, April 22
 
 [Pre-test with Caution: Event-study Estimates After Testing for Parallel Trends](https://scholar.harvard.edu/files/jroth/files/roth_pretrends_20190730.pdf)
 
-## Instrumental Variables
+### Instrumental Variables
 
 [Consistency without Inference: Instrumental Variables in Practical Application](http://personal.lse.ac.uk/YoungA/ConsistencyWithoutInference.pdf)
 
-## Regression Discontinuity
+### Regression Discontinuity
 
 [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2019_CUP-Vol1.pdf)
 
@@ -70,17 +72,17 @@ Dates: Feb 12, Feb 26, Mar 25, April 22
 
 [The Regression Discontinuity Design](https://cattaneo.princeton.edu/papers/Cattaneo-Titiunik-VazquezBare_2019_Sage.pdf)
 
-## DAGs (Directed Acyclical Graphs)
+### DAGs (Directed Acyclical Graphs)
 
 [Chapter in *Causal Inference: The Mixtape by Scott Cunningham*](http://scunning.com/cunningham_mixtape.pdf)
 
-## Synthetic controls
+### Synthetic controls
 
 [Matrix Completion Methods for Causal Panel Data Models](https://arxiv.org/abs/1710.10251)
 
 [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](http://economics.mit.edu/files/17847)
 
-## Bayesian statistics
+### Bayesian statistics
 
 [Bayesian Causal Inference in Political Science (Mike DeCrescenzo)](https://github.com/mikedecr/causal-bayes)
 
@@ -88,7 +90,7 @@ Dates: Feb 12, Feb 26, Mar 25, April 22
 
 [City Limits to Partisan Polarization in the American Public](https://williammarble.co/docs/CityLimits-July2019.pdf)
 
-## Experimental design
+### Experimental design
 
 [Adaptive Experimental Design: Prospects and Applications in Political Science](https://alexandercoppock.com/papers/OCG_adaptive.pdf)
 
@@ -102,19 +104,19 @@ Dates: Feb 12, Feb 26, Mar 25, April 22
 
 [Randomization tests of causal effects under interference](https://academic.oup.com/biomet/article-abstract/106/2/487/5306899)
 
-## Inference
+### Inference
 
 [Sampling-based vs. Design-based Uncertainty in Regression Analysis](https://arxiv.org/abs/1706.01778)
 
 [Multiple Hypothesis Testing in Experimental Economics](https://rd.springer.com/article/10.1007/s10683-018-09597-5)
 
-## Visualization
+### Visualization
 
 [Visualize as You Randomize: Design-Based Statistical Graphs for Randomized Experiments](https://alexandercoppock.com/papers/Coppock_VAYR.pdf)
 
-## Matching and Propensity Score methods
+### Matching and Propensity Score methods
 
-## Heterogeneous Treatment Effects and External Validity
+### Heterogeneous Treatment Effects and External Validity
 
 [LOCAL INSTRUMENTS, GLOBAL EXTRAPOLATION:
 EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (James Bisbee, Rajeev Dehejia, Cristian Pop-Eleches, Cyrus Samii)](https://www.nber.org/papers/w21663.pdf)
@@ -132,4 +134,4 @@ EXTERNAL VALIDITY OF THE LABOR SUPPLY-FERTILITY LOCAL AVERAGE TREATMENT EFFECT (
 [Aggregating Distributional Treatment Effects: A Bayesian Hierarchical Analysis of the Microcredit Literature](https://mfr.osf.io/render?url=https://osf.io/bq6pn/?action=download%26mode=render)
 
 
-## Partial Identification
+### Partial Identification
